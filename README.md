@@ -24,7 +24,7 @@ You must have 8GB or more memory to allocate to the JVM (used by pilon).
 
 # INSTALLATION:
 
-    git clone https://github.com/marbl/MetaCompass.git
+    git clone https://github.com/treangen/MetaCompass.git
     cd MetaCompass
     ./install.sh
 
